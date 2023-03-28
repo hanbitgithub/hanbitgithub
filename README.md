@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 🍀 **Naver Blog** [https://blog.naver.com/gksqlcdl93](https://blog.naver.com/gksqlcdl93)
 
 
-- 💻 아직 배울게 많은 주니어 웹 엔지니어입니다.
-- 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+💻 아직 배울게 많은 주니어 웹 엔지니어입니다.
+
+😎 나만의 일을 찾기위해 열심히 노력중입니다.
