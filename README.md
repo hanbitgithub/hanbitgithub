@@ -88,10 +88,10 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbitgithub&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=hanbitgithub&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hanbitgithub)
+![Hanbit's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hanbitgithub)
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/hanbitgithub)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanbitgithub)](https://solved.ac/hanbitgithub)
 </div>
