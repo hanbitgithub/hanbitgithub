@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🐱**Github** [https://github.com/hanbitgithub](https://github.com/hanbitgithub)
 
-📚 **Tistory Blog** [https://.tistory.com/](https://.tistory.com/)
+📚 **Tistory Blog** [https://hanbitlog.tistory.com/](https://hanbitlog.tistory.com/)
 
 
 💻 아직 배울게 많은 주니어 웹 엔지니어입니다. <br>
