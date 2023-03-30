@@ -80,11 +80,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-	<br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=hanbitgithub&show_icons=true">
 
 ![Hanbit's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hanbitgithub)
-
-<br>
-
+</div>
